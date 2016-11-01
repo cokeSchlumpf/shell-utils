@@ -13,4 +13,6 @@ Usage:
 
 ```
 docker-clean.sh [ -h | --help | OPTIONS ]
+
+curl https://raw.githubusercontent.com/cokeSchlumpf/shell-utils/master/docker-clean.sh | bash -s --
 ```
